@@ -67,7 +67,10 @@ $$
 
 具体的数学形式如下：
 $$
-\v^{t+1}=\lambda v^{t}-\eta g^t\\
+v^{t+1}=\lambda v^{t}-\eta g^t\\
+$$
+>
+$$
 \theta^{t+1}\gets \theta^{t}+v^{t+1}
 $$
 
