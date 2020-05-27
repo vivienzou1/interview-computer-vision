@@ -10,7 +10,7 @@
 
 1. 更深的网络结构
 2. 非线性激活函数：ReLU
-3. 防止过拟合的方法：Dropout，Data augmentation
+3. 防止过拟合的方法：Dropout，Data augmentation(increase the variety of data, bigger sample size)
 4. 大数据训练：百万级ImageNet图像数据
 5. 其他：GPU实现，LRN归一化层的使用
 
