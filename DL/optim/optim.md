@@ -89,7 +89,13 @@ x += v # 与位置融合
 具体的数学形式：
 $$
 \theta^{ahead} = \theta^{t} + \lambda v^{t}\\
+$$
+>
+$$
 v^{t+1}=\lambda v^t-\eta g^{t+1}(\theta^{ahead}) \\
+$$
+>
+$$
 \theta^{t+1}=\theta^t+v^{t+1}
 $$
 
