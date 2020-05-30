@@ -110,7 +110,9 @@ $$
 $$
 J_{i,j}=\frac{\partial}{\partial x_j}f(x)_i
 $$
-海森矩阵，可以看做梯度的雅克比矩阵：
+>
+> 海森矩阵，可以看做梯度的雅克比矩阵：
+>
 $$
 H(f)(x)_{i,j}=\frac{\partial^2}{\partial x_i\partial x_j}f(x)
 $$
