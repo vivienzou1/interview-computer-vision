@@ -17,7 +17,7 @@
 Montufar et al. (2014) 的主要定理指出，具有$d$个输入、深度为$l$、每个隐藏层具有$n$个单元的深度整流网络可以描述的线性区域的数量是：
 >
 $$
-\begin{pmatrix} \begin{pmatrix} n\\d \end{pmatrix}^{d(l-1)} n^d  \end{pmatrix}
+0\begin{pmatrix} \begin{pmatrix} n\\d \end{pmatrix}^{d(l-1)} n^d  \end{pmatrix}
 $$
 >
 意味着，这是深度$l$的指数级
